@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artur-Moraes
 - 👀 I’m interested in learning and gaining experience
-- 🌱 I’m currently learning HTML5 and CSS3
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 💞️ I’m looking to collaborate on with dedicacion for learn and gain experience
 - 📫 How to reach me artur.moraes13@gmail.com
 
